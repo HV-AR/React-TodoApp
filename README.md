@@ -1,5 +1,5 @@
 # React-TodoApp
-Todo App built with react
+Todo App built with react!
 
 Notes-To Do is an application created to simplify the process of taking short notes or creating to do lists in the everyday life of an individual.
 
